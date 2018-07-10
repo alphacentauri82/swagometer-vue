@@ -1,7 +1,7 @@
 <template>
   <section>
       <div class="container">
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-center">
           <div class="col-xs-12">
             <h1><strong>SWAG-O-METER</strong></h1>
             <form @submit.prevent="obtenerRitmosustancia">
